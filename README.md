@@ -35,4 +35,6 @@ mknod /dev/intDevice c 112 0
 
 ## 2. 读写char数据驱动
 
+代码[在这](https://github.com/AgentGuo/linux_device_driver/tree/main/intDevice)
+
 基本和int数据驱动没区别~~ 不知道老师咋想的 :-(
